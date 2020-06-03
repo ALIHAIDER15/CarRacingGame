@@ -1,0 +1,9 @@
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.csprojAssemblyReference.cache
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\adasd\Desktop\visual studio\CarRacing\CarRacing\obj\Debug\CarRacing.kok.resources
